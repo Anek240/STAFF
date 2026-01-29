@@ -47,8 +47,11 @@ Tony’s is a legitimate restaurant. Any rumors suggesting otherwise are incorre
 </p>
 
 ----------NAVIGATIONSES---------- 
+<br>
+<br><p1> <em> <a href="https://anek240.github.io/SchoolProjects.github.io/">MAIN</a> </em> </p1>
 
-<p1> <em> <a href="https://anek240.github.io/SchoolProjects.github.io/">MAIN</a> </em> </p1>
+<br><p2> <em> <a href="https://anek240.github.io/STAFF/">Now Hiring</a> </em> </p2>
 
-<p2> <em> <a href="https://anek240.github.io/STAFF/">Now Hiring</a> </em> </p2>
+<<br>p2> <em> <a href="https://anek240.github.io/Motto/">Information</a> </em> </p2>
+
 </body>
