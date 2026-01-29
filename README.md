@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Now Hiring</title>
-</head>
 <body>
 
 <h1>Now Hiring</h1>
