@@ -1,4 +1,4 @@
-# STAFF
+# STAFF APPLICATIONS
 <body>
 <h1>Now Hiring</h1>
 <p><strong>Tonys totally legit italian grill</strong></p>
@@ -46,7 +46,9 @@ Tony’s is a legitimate restaurant. Any rumors suggesting otherwise are incorre
 </em>
 </p>
 
-<p>
-<em> <a href="https://anek240.github.io/SchoolProjects.github.io/">Back</a> </em>
-</p>
+----------NAVIGATIONSES---------- 
+
+<p1> <em> <a href="https://anek240.github.io/SchoolProjects.github.io/">MAIN</a> </em> </p1>
+
+<p2> <em> <a href="https://anek240.github.io/STAFF/">Now Hiring</a> </em> </p2>
 </body>
