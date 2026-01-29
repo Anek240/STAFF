@@ -1,81 +1,59 @@
-# STAFF
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Now Hiring | Totally Legit Italian Restaurant</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            background: #111;
-            color: #f2f2f2;
-            font-family: "Georgia", serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        .ad {
-            max-width: 700px;
-            margin: 60px auto;
-            padding: 40px;
-            background: #1c1c1c;
-            border: 2px solid #7a1f1f;
-            box-shadow: 0 0 20px rgba(122, 31, 31, 0.6);
-        }
-
-        h1 {
-            text-align: center;
-            color: #c62828;
-            letter-spacing: 2px;
-        }
-
-        h2 {
-            margin-top: 30px;
-            color: #e0b15a;
-        }
-
-        p {
-            line-height: 1.6;
-            font-size: 16px;
-        }
-
-        ul {
-            margin-left: 20px;
-        }
-
-        li {
-            margin-bottom: 8px;
-        }
-
-        .fine-print {
-            margin-top: 30px;
-            font-size: 12px;
-            color: #999;
-            font-style: italic;
-            border-top: 1px solid #333;
-            padding-top: 15px;
-        }
-
-        .cta {
-            text-align: center;
-            margin-top: 30px;
-            font-size: 18px;
-            color: #e0b15a;
-        }
-    </style>
+    <title>Now Hiring</title>
 </head>
 <body>
 
-<div class="ad">
-    <h1>NOW HIRING</h1>
-    <p style="text-align:center;">
-        <strong>Luigi’s Trattoria & Definitely Just a Trattoria</strong><br>
-        Family-owned. Emphasis on <em>family</em>.
-    </p>
+<h1>Now Hiring</h1>
 
-    <h2>Available Positions</h2>
-    <ul>
-        <li>Servers (must smile, nod, and never ask questions)</li>
-        <li>Line Cooks (Italian accent optional, loyalty mandatory)</li>
-        <li>Dishwashers (access to many conversations you did not hear)</li>
-        <li>Boo
+<p><strong>Tonys totally legit italian grill</strong></p>
+
+<p>
+Tony’s is a family-owned Italian restaurant looking for new staff.
+We value loyalty, discretion, and showing up when scheduled.
+</p>
+
+<h2>Positions Available</h2>
+
+<ul>
+    <li>Server</li>
+    <li>Cook</li>
+    <li>Dishwasher</li>
+    <li>Office Assistant</li>
+</ul>
+
+<h2>What We’re Looking For</h2>
+
+<ul>
+    <li>Ability to follow instructions</li>
+    <li>Comfort working late nights</li>
+    <li>No unnecessary questions</li>
+    <li>Respect for family business</li>
+</ul>
+
+<h2>What We Offer</h2>
+
+<ul>
+    <li>Competitive pay (cash preferred)</li>
+    <li>Free meals</li>
+    <li>Long-term employment opportunities</li>
+    <li>A strong sense of family</li>
+</ul>
+
+<p>
+Apply in person.<br>
+Ask for jimmy.
+</p>
+
+<p>
+<em>
+Tony’s is a legitimate restaurant. Any rumors suggesting otherwise are incorrect.
+</em>
+</p>
+
+<h1>
+</h1>
+
+</body>
+</html>
