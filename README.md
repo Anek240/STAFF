@@ -11,7 +11,7 @@ We value loyalty, discretion, and showing up when scheduled.
 <h2>Positions Available</h2>
 
 <ul>
-    <li>Server</li>
+    <li>Server</li> 
     <li>Cook</li>
     <li>Dishwasher</li>
     <li>Office Assistant</li>
