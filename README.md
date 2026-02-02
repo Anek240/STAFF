@@ -23,7 +23,7 @@
 <li>A strong sense of family</li>
 </ul>
 <p>Apply through the applicant portal:</p>
-<p3><em><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJJ6aKEcd6Rj266A6oCpp4ZdclzQXhnPcg308eZeAF0NakA/viewform?usp=header">ApplicationPortal</a></em></p3></p>
+<p3><em><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJJ6aKEcd6Rj266A6oCpp4ZdclzQXhnPcg308eZeAF0NakA/viewform?usp=header">ApplicationPortal</a></em></p3>
 <p><em>Tony&rsquo;s is a legitimate restaurant. Any rumors suggesting otherwise are incorrect.</em></p>
 <p></p>
 <p>~<strong><em>Navigation</em></strong>~ <br /><br /><p1><em><a href="https://anek240.github.io/SchoolProjects.github.io/">MAIN</a></em></p1><br /><p2><em><a href="https://anek240.github.io/STAFF/">Now Hiring</a></em></p2><br /><p3><em><a href="https://anek240.github.io/Motto/">Information</a></em></p3></p>
